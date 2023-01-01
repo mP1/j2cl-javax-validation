@@ -1,2 +1,10 @@
-# j2cl-javax-validation
-The java bean validation standard packaged for j2cl usage. 
+[![Build Status](https://github.com/mP1/j2cl-javax-validation/actions/workflows/build.yaml/badge.svg)](https://github.com/mP1/j2cl-javax-validation/actions/workflows/build.yaml/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/mP1/j2cl-javax-validation/badge.svg?branch=master)](https://coveralls.io/repos/github/mP1/j2cl-javax-validation?branch=master)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/mP1/j2cl-javax-validation.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mP1/j2cl-javax-validation/context:java)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/mP1/j2cl-javax-validation.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mP1/j2cl-javax-validation/alerts/)
+[![J2CL compatible](https://img.shields.io/badge/J2CL-compatible-brightgreen.svg)](https://github.com/mP1/j2cl-central)
+
+A non-functional but compile successful `javax.validation` stubs. Note that `javax.validation` annotations are ignored.
+
+ 
