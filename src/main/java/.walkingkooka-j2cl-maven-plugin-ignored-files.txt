@@ -1,0 +1,12 @@
+#
+# Contains references to numerous unimplemented JRE classes.
+#
+javax/validation/Validation.*
+
+#
+# Uses the un-emulated RegExp class(es).
+#
+javax/validation/constraints/Pattern.*
+
+
+
